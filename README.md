@@ -21,7 +21,7 @@ There is a generalized queuing process, using a parameter ![math](https://github
 
 3. Inter Event Time Distribution (IETD) : The time interval between events defined above.
 
-</br>For more details, please refer to the following paper : ("The origin of bursts and heavy tails in human dynamics, 2005" : https://www.nature.com/articles/nature03459)
+</br>For more details, please refer to the following paper : ("_The origin of bursts and heavy tails in human dynamics_, 2005" : https://www.nature.com/articles/nature03459)
 
 
 ### How to analyze time series data from this theory.
