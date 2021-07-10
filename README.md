@@ -15,20 +15,18 @@ There is a generalized queuing process, using a parameter ![math](https://github
 
 
 ### Event & Inter Event Time (IET) & Inter Event Time Distribution (IETD)
-
-1. Event : Clear definition of event is needed. (eg. In restaurant, food coming out can be defined as an event.)
-2. Inter Event Time (IET) : The time interval between events defined above.
-3. Inter Event Time Distribution (IETD) : The time interval between events defined above.
+</br>1. Event : Clear definition of event is needed. (eg. In restaurant, food coming out can be defined as an event.)
+</br>2. Inter Event Time (IET) : The time interval between events defined above.
+</br>3. Inter Event Time Distribution (IETD) : The time interval between events defined above.
 
 </br>For more details, please refer to the following paper : ("The origin of bursts and heavy tails in human dynamics, 2005" : https://www.nature.com/articles/nature03459)
 
 
 ### How to analyze time series data from this theory.
-
-1. Prepare time-series data with clear definition of events.
-2. Calculate IET & IETD from prepared data.
-3. If IETD follows power-law distribution, measure exponent of IETD. If it follows exponential distribution, this time-seris data might be a randomly generated data from iid.
-4. If you want to classify time-series data by generating method of data, it might be okay to compare exponents.
+</br>1. Prepare time-series data with clear definition of events.
+</br>2. Calculate IET & IETD from prepared data.
+</br>3. If IETD follows power-law distribution, measure exponent of IETD. If it follows exponential distribution, this time-seris data might be a randomly generated data from iid.
+</br>4. If you want to classify time-series data by generating method of data, it might be okay to compare exponents.
 
 
 ## 2. Record Statistics
