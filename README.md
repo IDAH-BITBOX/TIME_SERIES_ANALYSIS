@@ -6,7 +6,7 @@ Effective Method for analyzing Time Series Data
 ## 1. Bursty Process vs. Random Process
 
 There is a generalized queuing process, using a parameter ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn.gif) in Barabasi's Burst paper.
-</br>("The origin of bursts and heavy tails in human dynamics, 2005" : https://www.nature.com/articles/nature03459).
+</br>("_The origin of bursts and heavy tails in human dynamics_, 2005" : https://www.nature.com/articles/nature03459).
 
  * ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn.gif) : Control Parameter of Priority array's components' exponent. (like as fitness of node or task.)
 
