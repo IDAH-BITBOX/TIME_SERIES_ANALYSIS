@@ -16,5 +16,5 @@ There is a Good statistics for analyzing time series data. (If time series data 
 
 ### Some Important Variables for Record Statistics
 
-* ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn%20(4).gif) : Binary Indicator for Record Event Occurs.
-* ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn%20(3).gif) : Record Number (The number of Record Events occurred)
+* ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn%20(4).gif) : Binary Indicator for Record Event Occurs.</br>
+* ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn%20(3).gif) : Record Number (The number of Record Events occurred)</br>
