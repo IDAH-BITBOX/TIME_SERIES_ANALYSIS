@@ -29,6 +29,6 @@ Time Series Data Set : ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYS
 
 * ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn%20(12).gif) : Binary Indicator for Record Event Occurs.</br></br>
 * ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn%20(11).gif) : Record Number (The number of Record Events occurred)</br></br>
-* ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn%20(10).gif) : Average Record Number (The mean value of Record Number)</br></br>
-* 
+* ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn%20(10).gif) : Average Record Number (The mean value of Record Number for many time series samples)</br></br>
+* ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn%20(13).gif) : Record Rate (Average Binary Indicator for Record Event Occurs).</br></br>
 
