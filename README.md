@@ -2,7 +2,7 @@
 Effective Method for analyzing Time Series Data
 
 ## 1. Bursty Process vs. Random Process
-There is a generalized queuing process, using a parameter $$ \alpha $$ in Barabasi's Burst paper.
+There is a generalized queuing process, using a parameter ${\alpha}$ in Barabasi's Burst paper.
 ("The origin of bursts and heavy tails in human dynamics, 2005").
 
  * $ \alpha $  : Control Parameter of Priority array's components' exponent. (like as fitness of node or task.)
