@@ -35,3 +35,5 @@ Time Series Data Set : ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYS
 * ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn%20(13).gif) : Record Rate (Average Binary Indicator for Record Event Occurs).</br></br>
 
 * ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn%20(14).gif) : Variance of Record Number
+* ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn%20(15).gif) : Fano Factor
+* ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn%20(16).gif) : Connected Two-time Correlation Function
