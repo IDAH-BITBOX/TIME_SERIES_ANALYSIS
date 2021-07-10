@@ -7,7 +7,7 @@ There is a generalized queuing process, using a parameter ![math](https://github
 
  * ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn.gif) : Control Parameter of Priority array's components' exponent. (like as fitness of node or task.)
 
- * ![math]() : Random Process.
+ * ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn%20(1).gif) : Random Process.
  * ![math]()   : Bursty Process. (Or Deterministic Process)
 
 
