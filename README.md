@@ -2,13 +2,13 @@
 Effective Method for analyzing Time Series Data
 
 ## 1. Bursty Process vs. Random Process
-There is a generalized queuing process, using a parameter ![img](https://imgur.com/a/0eTTMIu) in Barabasi's Burst paper.
+There is a generalized queuing process, using a parameter $[\alpha]$ in Barabasi's Burst paper.
 ("The origin of bursts and heavy tails in human dynamics, 2005").
 
- * ![img](https://imgur.com/a/0eTTMIu): Control Parameter of Priority array's components' exponent. (like as fitness of node or task.)
+ * $[\alpha]$ : Control Parameter of Priority array's components' exponent. (like as fitness of node or task.)
 
- * $ \alpha=0 $ : Random Process.
- * $ \alpha>0 $  : Bursty Process. (Or Deterministic Process)
+ * $[\alpha=0]$ : Random Process.
+ * $[\alpha>0]$   : Bursty Process. (Or Deterministic Process)
 
 
 ## 2. Record Statistics
