@@ -22,7 +22,7 @@ There is a Good statistics for analyzing time series data. (If time series data 
 ### Definition of Record Event
 
 Time Series Data Set : ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn%20(6).gif)
-</br> For each ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn%20(5).gif), 
+</br> For each ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn%20(5).gif), when ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn%20(8).gif) at timing ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn%20(9).gif), a Record Event occurs.
 
 
 ### Some Important Variables for Record Statistics
