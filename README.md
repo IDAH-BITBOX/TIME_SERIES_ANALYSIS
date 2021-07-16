@@ -58,3 +58,11 @@ Time Series Data Set : ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYS
 * ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn%20(16).gif) : Variance of Record Number
 * ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn%20(17).gif) : Fano Factor
 * ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn%20(18).gif) : Connected Two-time Correlation Function
+
+### Record Analysis (Real Case : Covid19, Seoul's confirmed)
+
+![plot](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/plot_img/Covid19%20Record%20Number.png)
+
+</br>Dataset from http://data.seoul.go.kr/dataList/OA-20279/S/1/datasetView.do
+</br>x-axis = [2020-01-24 ~ 2021-07-15]
+</br>y-axis = "Record Number"
