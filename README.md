@@ -59,7 +59,7 @@ Time Series Data Set : ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYS
 * ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn%20(17).gif) : Fano Factor
 * ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/math_img/CodeCogsEqn%20(18).gif) : Connected Two-time Correlation Function
 
-### Record Analysis (Real Case : Covid19, Seoul's confirmed)
+### Record Analysis (Real Case : Covid19, the number of Seoul's confirmed people)
 
 ![plot](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYSIS/blob/main/plot_img/Covid19%20Record%20Number.png)
 
