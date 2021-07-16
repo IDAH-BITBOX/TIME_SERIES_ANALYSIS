@@ -66,3 +66,4 @@ Time Series Data Set : ![math](https://github.com/IDAH-BITBOX/TIME_SERIES_ANALYS
 </br>Dataset from http://data.seoul.go.kr/dataList/OA-20279/S/1/datasetView.do
 </br>x-axis = [2020-01-24 ~ 2021-07-15]
 </br>y-axis = "Record Number"
+</br></br>Currently, Record Number of Seoul is going to increase until it reach to analytic result...(ㅠㅠㅠ)
